@@ -53,3 +53,10 @@ Open the frontend in your browser.
 
 2.You Can login by 2 different users(doctors & Patients)
 
+
+### Contributing
+
+Feel free to submit issues or pull requests to improve the system.
+
+### By Team SheSolves
+
