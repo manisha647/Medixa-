@@ -28,3 +28,28 @@ Improves first-line antibiotic decisions
 Reduces unnecessary antibiotic misuse
 Helps slow antibiotic resistance beforeit starts
 “Helping doctors prioritize, predict, and decide — without replacing them.”
+
+##  Installation Guide
+
+### **Frontend Setup**
+```bash
+cd frontend
+npm install
+npm run dev
+```
+Backend Setup
+```
+cd backend
+pip install -r requirements.txt
+uvicorn main:app --reload
+```
+
+## How to Use
+1. Start the Application
+
+Run the frontend and backend servers.
+
+Open the frontend in your browser.
+
+2.You Can login by 2 different users(doctors & Patients)
+
