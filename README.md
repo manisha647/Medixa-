@@ -4,12 +4,14 @@ MEDIXA is an explainable clinical decision-support system designed to reduce ant
 In emergency wards and resource-limited clinics, antibiotics are often prescribed before lab results arrive. A wrong first choice can harm patients and accelerate long-term resistance. MEDIXA addresses this gap by predicting the risk of antibiotic failure before prescription.
 
 🔍 What MEDIXA Does
+
 Evaluates whether a chosen antibiotic is likely to fail for a specific patient
 Frames the problem as binary risk prediction: Low Risk / High Risk
 Flags high-risk prescriptions only, avoiding alert fatigue
 Provides clear, human-readable explanations for every alert
 
 📊 How It Works
+
 MEDIXA uses:
 Patient history
 Infection context
@@ -18,12 +20,14 @@ Local resistance patterns
 The system does not recommend drugs—it supports clinicians by highlighting risk, not replacing judgment.
 
 ⚡ Key Features
+
 Explainable AI (clinician-friendly reasoning)
 Minimal data entry, fast workflow
 Secure login & clean dashboard
 Designed for high-pressure, real-world clinical settings
 
 🎯 Impact
+
 Improves first-line antibiotic decisions
 Reduces unnecessary antibiotic misuse
 Helps slow antibiotic resistance beforeit starts
