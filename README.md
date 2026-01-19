@@ -64,3 +64,5 @@ Feel free to submit issues or pull requests to improve the system.
 
 ### By Team SheSolves
 
+Team Members: Aasma Gupta, Khushi Singh, Manisha Kumari, Vanshika Chhabra
+
