@@ -30,7 +30,7 @@ Designed for high-pressure, real-world clinical settings
 
 Improves first-line antibiotic decisions
 Reduces unnecessary antibiotic misuse
-Helps slow antibiotic resistance beforeit starts
+Helps slow antibiotic resistance before it starts
 “Helping doctors prioritize, predict, and decide — without replacing them.”
 
 ##  Installation Guide
